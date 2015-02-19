@@ -14,8 +14,8 @@
 .content  p { font: 24px/40px 'Merriweather', Georgia, serif; color: #9e8d7b; margin: 0 0 30px 20px; padding: 0 30px 0 0; }
 .content ol li { font: 24px/40px 'Merriweather', Georgia, serif; color: #9e8d7b; margin: 0 0 30px 20px;  }
 .content ol li em { color: #211e1f; font-style: normal; }
-.content a { color: #f72; border-bottom: 1px dotted #f72; }
-.content a:hover { text-decoration: none; color: #d42; }
+.content a { color: #0be; border-bottom: 1px dotted #f72; }
+.content a:hover { text-decoration: none; color: #f72; }
 .content .btn-primary { width: 240px; padding: 20px 0; line-height: 75px; background-color: #f66; border: none; font: 24px BrandonGrotesque-Black, 'Helvetica Neue', Helvetica, Arial; text-shadow: 0 1px 0 #f1c4bf; color: #332; letter-spacing: .05em; text-transform: uppercase; margin-top: 4px; }
 .content .btn-primary:hover { color: #000; }
 
