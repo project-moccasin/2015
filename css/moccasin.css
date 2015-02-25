@@ -1,5 +1,6 @@
 .lede { padding: 90px 0 30px; background: url(../images/bg-moccasin.jpg) center 0 no-repeat; }
 .lede .container { padding-bottom: 120px; }
+.lede .container .nav a { color: #fff; }
 .lede h1 { font: 72px/64px 'BrandonGrotesque-Black', 'Helvetica Neue Bold', Helvetica, Arial, sans-serif; color: #fff; max-width: 540px; text-transform: uppercase; margin: 0; }
 .subhead { font: 36px/30px 'Capriola', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #f70; max-width: 540px; margin-bottom: 30px; text-transform: uppercase; }
 .lede h2 { font: 300 28px/40px 'Merriweather', Georgia, serif; color: #fff; margin: 40px 0; padding-right: 20px; max-width: 540px; }
