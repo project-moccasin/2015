@@ -30,6 +30,7 @@
 .content .btn-primary { background-color: #e51; color: #000; }
 .content .btn-primary em { color: #fff; }
 .content .btn-primary:hover { background-color: #e77; color: #000; }
+.content .btn-primary.disabled { }
 .content .btn-round { font: 300 11px 'Merriweather', Georgia, serif; color: #fff; background-color: #e51; padding-top: 30px; width: 100px; height: 100px; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; margin: 20px; }
 .content .btn-round em { display: block; font-size: 16px; color: #000; }
 .content .btn-round:hover { background-color: #e51; color: #fff; }
